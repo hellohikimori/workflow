@@ -25,7 +25,7 @@ TweenMax, TimelineMax and their brothers for tweening stuff.
 #### [`three`](https://www.npmjs.com/package/three)
 3D framework for WebGL and Canvas.
 
-#### [`pixi`](https://www.npmjs.com/package/pixi)
+#### [`pixi.js`](https://www.npmjs.com/package/pixi.js)
 2D framework for WebGL and Canvas.
 
 ## Development
